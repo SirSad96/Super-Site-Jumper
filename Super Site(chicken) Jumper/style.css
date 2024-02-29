@@ -1,0 +1,59 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-image: linear-gradient(#FA7EB2, #FA7EB2, #FA7EB2,  #B3A3C7, #9DAFCD, #89B9D0);
+}
+
+.logo {
+	width: 100%;
+}
+
+.CONTEXTO {
+	align-items: center;
+}
+
+#botaozin1 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+#botao1 {
+	width: 15%;
+}
+
+#con-texto {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	text-align: center;
+	font-style: italic;
+}
+
+#presidentinha {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#presidente {
+	width: 45%;
+	padding: 15px 0;
+}
+
+#botaozin2 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#botao2 {
+	width: 12%;
+}
+
+#mundos{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	text-align: center;
+	font-style: italic;
+}
