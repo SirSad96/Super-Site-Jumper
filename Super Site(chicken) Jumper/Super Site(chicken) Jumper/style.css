@@ -1,0 +1,194 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-image: linear-gradient(#FA7EB2, #FA7EB2, #B3A3C7, #9DAFCD, #89B9D0);
+}
+
+.logo {
+	width: 100%;
+}
+
+.CONTEXTO {
+	align-items: center;
+}
+
+#botaozin1 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+#botao1 {
+	width: 15%;
+}
+
+#con-texto {
+	font-family: "Pixelify Sans", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: <weight>;
+  	font-style: normal;
+	font-size: 30px;
+	text-align: center;
+}
+
+#presidentinha {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#presidente {
+	width: 45%;
+	padding: 15px 0;
+}
+
+#botaozin2 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#botao2 {
+	width: 12%;
+}
+
+#mundos{
+	font-family: "Pixelify Sans", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: <weight>;
+  	font-style: normal;
+	font-size: 30px;		
+	text-align: center;
+}
+
+.mapas-todos {
+	display: grid;
+	padding: 10px 0;
+	grid-template-columns: 20% 20% 20% 20%;
+
+}
+
+#fazendalg {
+	margin: 2px 65px;
+	width: 80%;
+}
+
+#fazendaimg {
+	margin: 2px 35px;
+	width: 95%;
+}
+
+#florlg {
+	margin: 5px 50px;
+	width: 80%;
+}
+
+#florestaimg {
+	margin: 5px 35px;
+	width: 95%;
+}
+
+#pololg {
+	margin: 5px 50px;
+	width: 80%;
+}
+
+#poloimg {
+	margin: 5px 35px;
+	width: 95%;
+}
+
+#esplg {
+	margin: 40px 100px;
+	width: 60%;
+}
+
+#espacoimg {
+	margin: 30px 65px;
+	width: 80%;
+}
+
+#cemlg {
+	margin: 45px 80px;
+	width: 73%;
+}
+
+#cemiterioimg {
+	margin: 20px 35px;
+	width: 95%;
+}
+
+#centrolg {
+	margin: 10px 35px;
+	width: 95%;
+}
+
+#centroimg {
+	margin: 50px 35px;
+	width: 95%;
+}
+
+#despedida {
+	font-family: "Pixelify Sans", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+  	font-size: 30px;		
+  	text-align: center;
+	padding: 20px 0;
+}	
+
+#criador-escrita {
+	font-family: "Pixelify Sans", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+  	font-size: 30px;		
+  	text-align: center;
+}
+
+#euimage {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#eu {
+	width: 200px;
+}
+
+#name {
+	font-family: "Pixelify Sans", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+  	font-size: 30px;		
+  	text-align: center;
+}
+
+#finalfotinha {
+
+	justify-content: center;
+	align-items: center;
+	display: grid;
+	grid-template-columns: 3% 3% 3% 3% 3%;
+	padding: 10px 0;
+}
+
+.icon {
+	width: 45px;
+}
+
+#seeulater {
+	background-color: black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#seeu {
+	width: 500px;
+}
+
+
